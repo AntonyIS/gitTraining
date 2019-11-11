@@ -1,1 +1,2 @@
 Learn HTML and CSS
+Learn JavaScript basics
